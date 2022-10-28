@@ -1,1 +1,1 @@
-Olá, esse projeto ensino você a usar o git
+Aqui estarei atualizando o desenvolvimento do estudo em front-end
